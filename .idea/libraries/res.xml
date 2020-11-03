@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="res">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/res" />
+      <root url="jar://$PROJECT_DIR$/res/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/jogg-0.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/jorbis-0.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/slick.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

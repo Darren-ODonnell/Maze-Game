@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="file-copy" path="$PROJECT_DIR$/src/Maze1.csv" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/Maze3.csv" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/Maze2.csv" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/scores.csv" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/LastGamePlayed.csv" />
+    </root>
+  </artifact>
+</component>
